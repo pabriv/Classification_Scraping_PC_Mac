@@ -77,7 +77,7 @@ Model Coefficients & Insights suggest gamers prefer custom builds with RGB, high
 
 ## Integrated Recommendations & Next Steps
 
-- Survey to bring out insights on customer gaming needs (e.g. FPS, Cuda Cores, compatibility issues) to influence roadmap
+- Field survey to bring out insights on customer gaming needs (e.g. FPS, Cuda Cores, compatibility issues) to influence roadmap
 
 - Customer segments to include:
         - Existing PC Gaming enthusiasts
