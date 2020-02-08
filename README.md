@@ -1,5 +1,5 @@
 # Project 3: Classification Model - PC vs Mac Gaming
-#### by Pablo Rivera, Principal Data Scientist
+#### by Pablo Rivera
 #### February 2020
 
 ---
