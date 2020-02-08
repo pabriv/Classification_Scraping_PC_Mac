@@ -84,11 +84,13 @@ Model Coefficients & Insights suggest gamers prefer custom builds with RGB, high
 - Field survey to bring out insights on customer gaming needs (e.g. FPS, Cuda Cores, compatibility issues) to influence roadmap
 
 - Customer segments to include:
+
         - Existing PC Gaming enthusiasts
         - Existing Apple fanboys
         - Esports athletes
         - Regular consumers (gauge gaming appeal)
-        - Begin working on eSports partnerships and cyberathlete sponsorships
+        
+- Begin working on eSports partnerships and cyberathlete sponsorships
         
 - Continue building out robustness of classification model:  additional feature reduction/refinement,  additional feature engineering, lemmatization, experiment with different platforms such as Amazon reviews, Newegg reviews, Twitter
 
