@@ -48,7 +48,7 @@ Subreddits evaluated:
 Model Coefficients & Insights suggest gamers prefer custom builds with RGB, high performance and SSDs
 
 - Recommendations:
-    - Field customer Survey to corroborate insights on customer gaming needs (e.g. FPS, CUDA cores, compatibility issues) to influence roadmap
+    - Field survey to corroborate insights on customer gaming needs (e.g. FPS, CUDA cores, compatibility issues) to influence roadmap
 
     - Continue building out robustness of classification model:  additional feature reduction/refinement,  additional feature engineering, lemmatization, experiment with different platforms such as Amazon reviews, Newegg reviews, Twitter
     - Begin cultivating esports partnerships and cyberathlete sponsorships
@@ -81,7 +81,7 @@ Model Coefficients & Insights suggest gamers prefer custom builds with RGB, high
 
 ## Integrated Recommendations & Next Steps
 
-- Survey to bring out insights on customer gaming needs (e.g. FPS, Cuda Cores, compatibility issues) to influence roadmap
+- Field survey to bring out insights on customer gaming needs (e.g. FPS, Cuda Cores, compatibility issues) to influence roadmap
 
 - Customer segments to include:
         - Existing PC Gaming enthusiasts
