@@ -8,7 +8,7 @@
 ## Agenda
 - [Key Objective](#Key-Objective)
 - [Executive Summary](#Executive-Summary)
-- [Key Findings](#Key-Findings)
+- [Model Evaluation](#Model-Evaluation)
 - [Integrated Recommendations & Next Steps](#Integrated-Findings)
 - [Sources](#Sources)
 
@@ -58,7 +58,7 @@ Model Coefficients & Insights suggest gamers prefer custom builds with RGB, high
 
 
 
-## Key Findings
+## Model Evaluation
 
 
 
