@@ -1,4 +1,4 @@
-# Project 3: Classification Model - PC vs Mac Gaming
+# Web Scraping & Classification Model - PC vs Mac Gaming
 #### by Pablo Rivera
 #### February 2020
 
